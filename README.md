@@ -2,8 +2,7 @@
 - 👀 I’m interested in Data Science and analytics 
 - 🌱 I’m a recent graduate with a B.Tech degree in Computer Science and Engineering.
 - 📫 How to reach me pawar.tejas2404@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/him
 
 <!---
 Tejas-2404/Tejas-2404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
